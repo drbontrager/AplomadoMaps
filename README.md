@@ -9,7 +9,7 @@ This repository contains maps related to Aplomado Falcons
 - [2023 Occupancy Map](https://drbontrager.github.io/AplomadoMaps/occupancy_map_2023.html)
 - [2024 Occupancy Map](https://drbontrager.github.io/AplomadoMaps/occupancy_map_2024.html)
 
-## 📍 Aplomado Detection Maps
+## 📍 Aplomado Detection Map
 
 - [Detection Map](https://drbontrager.github.io/AplomadoMaps/detection_map.html)
 
